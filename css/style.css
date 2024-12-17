@@ -68,7 +68,7 @@ button:hover{
 /*NAVIGATION BAR*/
 .tour-navbar, .dropdown-menu{
     z-index:2000;/*do not edit the z-index*/
-    background-color:rgb(179, 36, 36) !important; /*background color of navigation bar*/
+    background-color:#C5050C !important; /*background color of navigation bar*/
 }
 /*stop buttons in navigation bar*/
 .dropdown-menu{
@@ -83,7 +83,7 @@ button:hover{
 
 /*SPLASH SCREEN STYLING*/
 #splash-dialogue, #splash-content, #splash-modal{
-    background-color:rgb(179, 36, 36);/*background color of the splash screen*/
+    background-color:#C5050C;/*background color of the splash screen*/
     color:rgb(0, 0, 0);/*text color of the splash screen*/
     margin:0;
     max-width: 100vw !important;
